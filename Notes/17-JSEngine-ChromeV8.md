@@ -31,3 +31,5 @@ It uses an algo called **Mark and Sweep**.
 Companies use different JS engines and each try to make theirs the best. 
 
 - v8 of Google has Interpreter called *Ignition*, a compiler called *Turbo Fan* and garbage collector called *Orinoco*
+
+Search About : Mark And Sweep , Inlining , Copy Elision , Inline Caching
